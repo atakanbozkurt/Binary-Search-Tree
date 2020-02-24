@@ -1,5 +1,5 @@
 # Binary-Search-Tree
 C++ implementation of BST with a test case
 
-Open up your terminal, type make and run executable file to see test case.
+Command line usage: Compile and files using make and run executable
 You can use your own test case.(edit testMap.cpp)
